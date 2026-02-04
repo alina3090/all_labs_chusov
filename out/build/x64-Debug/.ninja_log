@@ -1,0 +1,10 @@
+# ninja log v6
+57	379	7918775769163141	CMakeFiles/Parallelism.dir/main.cpp.obj.ddi	42988687650ed52
+422	476	7918775773289129	CMakeFiles/Parallelism.dir/CXX.dd	9a9f71886c699457
+422	476	7918775773289129	D:/program_C++/lab4/out/build/x64-Debug/CMakeFiles/Parallelism.dir/CXXModules.json	9a9f71886c699457
+422	476	7918775773289129	CMakeFiles/Parallelism.dir/main.cpp.obj.modmap	9a9f71886c699457
+479	3912	7918775773379066	CMakeFiles/Parallelism.dir/main.cpp.obj	80ce4cbfd32b71f2
+3913	4979	7918775807722658	Parallelism.exe	b8f92facaa1195b4
+70	162	7918781630158193	CMakeFiles/Parallelism.dir/CXX.dd	9a9f71886c699457
+70	162	7918781630158193	D:/program_C++/lab4/out/build/x64-Debug/CMakeFiles/Parallelism.dir/CXXModules.json	9a9f71886c699457
+70	162	7918781630158193	CMakeFiles/Parallelism.dir/main.cpp.obj.modmap	9a9f71886c699457
