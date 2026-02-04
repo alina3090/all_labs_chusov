@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\Parallelism.dir\\main.cpp.obj",
+            "outputs": [
+                "D:\\program_C++\\lab1\\out\\build\\x64-Debug\\vc140.pdb",
+                "CMakeFiles\\Parallelism.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
